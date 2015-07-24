@@ -4,8 +4,8 @@
   <sim>
     <model>
       <livery>
-        <name type="string">Lufthansa 1986Colors </name>
-        <texture>Liveries/733LH.png</texture>
+        <name type="string">Blue Air</name>
+        <texture>Liveries/JOR.png</texture>
       </livery>
 <Boeing-737-500>
 <removalkit>false</removalkit>
